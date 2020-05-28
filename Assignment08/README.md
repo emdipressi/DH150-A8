@@ -19,8 +19,8 @@ The main activity that weather.gov supports for its users is to find the weather
 ### UX Storytelling:
 UX storytelling is important in user design. It allows the creators to gain more insight into their product and how it is used. Creating personas helps creators imagine the user and what their needs are and how different users would use the product. Storytelling will help in the future for more functionality and ease of use. [Read more ...](https://github.com/emdipressi/DH150-Assignment05) 
 
-### Wireframe and graphic design element variation [assignment06 + part of 07]
-
+### Wireframe and graphic design element variation 
+coming soon 
 
 ### Low-fidelity Prototype:
 This type of user research is very important. Mapping out exactly how a website will function is an integral step in creating a website that will be functional to the user. Low fidelity prototyping and wire flows are essential in testing how screens will work and how the user will use them. Getting in touch with the user and testing the flows brings up issues that may not have been noticed before, but now after observing how a viewer uses the screen can help improve usability. [Read more ...](https://github.com/emdipressi/DH150-Assignment06)
@@ -28,8 +28,7 @@ This type of user research is very important. Mapping out exactly how a website 
 ### High-fidelity Prototype: 
 The high-fidelity prototype is the last step in this process of usability testing, user study, design, and low-fidelity prototyping. The purpose of this high-fidelity prototype is to visually test how the website will look and function. It can test the color, size, placement, and overall organization of the webpage before being programmed as a live site. My high fidelity prototype is for weather.gov. The tasks that are functional on this prototype are searching for the hourly weather for a specific location, checking the drought conditions for a current location, and searching for fire watch/warning information, and to navigate back to the homepage. [Read more ...](https://github.com/emdipressi/DH150-Assignment07-HighFidelity) 
 
-### Optional evaluation and revision history 
-Including cognitive walkthrough; impression test, accessibility audit, usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+### Evaluation and revision history 
 
 ### Pitch Video 
 Coming soon 

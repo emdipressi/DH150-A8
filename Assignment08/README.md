@@ -22,8 +22,8 @@ UX storytelling is important in user design. It allows the creators to gain more
 ### Wireframe and graphic design element variation 
 <table>
   <tr>
-    <td><img src="Wireflow.png" height="300px"></td>
-    <td><img src="Wireflow.png" height="300px"></td>
+    <td><img src="Wireflow.png" height="500px"></td>
+    <td><img src="9interactions.png" height="500px"></td>
   </tr>
   <table>
 

@@ -43,6 +43,10 @@ The high-fidelity prototype is the last step in this process of usability testin
 
 ### Pitch Video 
 
+  <figure class="video_contianer">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6Jf8GRPtHIc" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </figure>
+  
   
 ### Conclusion
 I have learned so much in this class. Pretty much every week I learned something new and I cannot wait to hopefully use in the future. In the future with this project I think I would like to make more screens or have different tasks that had more screens/options to go through. I could also possibly make more of the functions clickable or have other ways of getting to the different website locations. I also might try to change the location of some of the functions. 

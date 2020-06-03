@@ -32,7 +32,6 @@ UX storytelling is important in user design. It allows the creators to gain more
   <table>
 
 
-
 ### Low-fidelity Prototype:
 This type of user research is very important. Mapping out exactly how a website will function is an integral step in creating a website that will be functional to the user. Low fidelty prototyping and wire flows are essential in testing how screens will work and how the user will use them. Getting in touch with the user and testing the flows brings up issues that may not have been noticed before, but now after observing how a viewer uses the screen can help improve usability. [Read more ...](https://github.com/emdipressi/DH150-Assignment06)
 

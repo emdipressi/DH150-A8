@@ -31,6 +31,7 @@ UX storytelling is important in user design. It allows the creators to gain more
   </tr>
   <table>
 
+
 ### Low-fidelity Prototype:
 This type of user research is very important. Mapping out exactly how a website will function is an integral step in creating a website that will be functional to the user. Low fidelty prototyping and wire flows are essential in testing how screens will work and how the user will use them. Getting in touch with the user and testing the flows brings up issues that may not have been noticed before, but now after observing how a viewer uses the screen can help improve usability. [Read more ...](https://github.com/emdipressi/DH150-Assignment06)
 
@@ -45,7 +46,6 @@ The high-fidelity prototype is the last step in this process of usability testin
 <figure class="video_contianer">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/6Jf8GRPtHIc" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </figure>
-
-
-### Conclusion: what did you learn throughout the process?
-coming soon 
+  
+### Conclusion
+I have learned so much in this class. Pretty much every week I learned something new and I cannot wait to hopefully use in the future. In the future with this project I think I would like to make more screens or have different tasks that had more screens/options to go through. I could also possibly make more of the functions clickable or have other ways of getting to the different website locations. I also might try to change the location of some of the functions. 

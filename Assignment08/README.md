@@ -40,6 +40,7 @@ The high-fidelity prototype is the last step in this process of usability testin
 
 
 ### Evaluation and revision history 
+Put text here 
 
 ### Pitch Video 
 
@@ -49,4 +50,4 @@ The high-fidelity prototype is the last step in this process of usability testin
   
   
 ### Conclusion
-I have learned so much in this class. Pretty much every week I learned something new and I cannot wait to hopefully use in the future. In the future with this project I think I would like to make more screens or have different tasks that had more screens/options to go through. I could also possibly make more of the functions clickable or have other ways of getting to the different website locations. I also might try to change the location of some of the functions. 
+I have learned a lot in this class 

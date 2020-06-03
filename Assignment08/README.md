@@ -40,7 +40,10 @@ The high-fidelity prototype is the last step in this process of usability testin
 ### Evaluation and revision history 
 
 ### Pitch Video 
-Coming soon 
+
+<figure class="video_contianer">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6Jf8GRPtHIc" frameborder="0" allow="accelerometer;  encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </figure>
 
 ### Conclusion: what did you learn throughout the process?
 coming soon 

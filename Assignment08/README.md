@@ -21,6 +21,8 @@ The main activity that weather.gov supports for its users is to find the weather
 ### UX Storytelling:
 UX storytelling is important in user design. It allows the creators to gain more insight into their product and how it is used. Creating personas helps creators imagine the user and what their needs are and how different users would use the product. Storytelling will help in the future for more functionality and ease of use. [Read more ...](https://github.com/emdipressi/DH150-Assignment05) 
 
+![persona](clarkwaters.png)
+
 ### Wireframe and graphic design element variation 
 <table>
   <tr>

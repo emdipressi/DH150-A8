@@ -33,6 +33,7 @@ UX storytelling is important in user design. It allows the creators to gain more
     
 ### Low-fidelity Prototype:
 This type of user research is very important. Mapping out exactly how a website will function is an integral step in creating a webiste that will be functional to the user. 
+
 ### High-fidelity Prototype: 
 The high-fidelity prototype is the last step in this process of usability testing, user study, design, and low-fidelity prototyping. The purpose of this high-fidelity prototype is to visually test how the website will look and function. It can test the color, size, placement, and overall organization of the webpage before being programmed as a live site. My high fidelity prototype is for weather.gov. The tasks that are functional on this prototype are searching for the hourly weather for a specific location, checking the drought conditions for a current location, and searching for fire watch/warning information, and to navigate back to the homepage. [Read more ...](https://github.com/emdipressi/DH150-Assignment07-HighFidelity) 
 

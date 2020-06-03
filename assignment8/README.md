@@ -33,11 +33,16 @@ UX storytelling is important in user design. It allows the creators to gain more
   <table>
 
 ### Low-fidelity Prototype
+This type of user research is very important. Mapping out exactly how a website will function is an integral step in creating a website that will be functional to the user. Low fidelity prototyping and wire flows are essential in testing how screens will work and how the user will use them. Getting in touch with the user and testing the flows and bring up issues that may not have been noticed before, but now after observing how a viewer uses the screen can help improve usability. [Read more ...](https://github.com/emdipressi/DH150-Assignment06) 
 
 ### High-fidelity Prototype 
-
-### Evaluation and Revision History 
+The high-fidelity prototype is the last step in this process of usability testing, user study, design, and low-fidelity prototyping. The purpose of this high-fidelity prototype is to visually test how the website will look and function. It can test the color, size, placement, and overall organization of the webpage before being programmed as a live site. My high fidelity prototype is for weather.gov. The tasks that are functional on this prototype are searching for the hourly weather for a specific location, checking the drought conditions for a current location, and searching for fire watch/warning information, and to navigate back to the homepage. [Read more ...](https://github.com/emdipressi/DH150-Assignment07-HighFidelity) 
 
 ### Pitch Video 
 
-### Conclusion 
+<figure class="video container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6Jf8GRPtHIc" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </figure>
+
+### Conclusion
+I have learned so much in this class. Every week I learned something new and I cannot wait to hopefully use in the future. From the basics of heuristics and usability testing to user research to high fidelity prototyping, I learned things that will be valuable to me in the future. Working with others and getting feedback from users and peers was not always fun, because in your head you think what you have is right and great, but from a user’s viewpoint it may not make sense, so I also learned the value of feedback. 

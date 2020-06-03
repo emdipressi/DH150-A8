@@ -1,6 +1,8 @@
 # National Weather Service: Weather.gov
 ## Emily DiPressi 
 
+[Weather home](Weather.png) 
+
 ### Introduction: 
 My project focuses on weather.gov. This site has functions that range from basic weather searches for user's current location to more detailed information on weather safety features or phenomenal weather patterns. My goal with weather.gov was to streamline the design and make the information presented easier to read and to fill in the missing gaps that were on the original website. I designed with a wide variety of users in mind: users with colorblindness, users that needed information fast and not presented in a complicated manner, and users that are not as tech savvy as younger generations. Overall, I wanted to make a website that had lots of helpful information that was accessible to all who wanted it.
 
